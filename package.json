@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@chainsafe/dappeteer": "^2.2.0",
+    "dappeteer": "^1.0.0",
+    "esbuild": "^0.13.10",
+    "esbuild-register": "^3.0.0",
+    "puppeteer": "^10.4.0"
+  },
+  "scripts": {
+    "es": "node -r esbuild-register"
+  }
+}
