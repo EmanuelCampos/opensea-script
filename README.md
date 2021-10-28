@@ -32,7 +32,7 @@ const secretPhase = `here is your secret phase dont share it`
 Run the command to run the script
 
 ```bash
-yarn es script.ts
+yarn es ./src/script.ts
 ```
 
 
